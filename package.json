@@ -7,7 +7,7 @@
     "start": "node ./server/bin/www",
     "test": "mocha"
   },
-  "author": "Ruchika",
+  "author": "Shipra",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
